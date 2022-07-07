@@ -1,0 +1,21 @@
+2022-07-07 19:14:17,333 WARN  [SoapUI] Missing folder [C:\Users\user\Desktop\Java project\my-project\ext] for external libraries
+2022-07-07 19:14:17,531 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\user\soapui-settings.xml]
+2022-07-07 19:14:18,043 INFO  [WsdlProject] Loaded project from [file:/C:/Users/user/Desktop/Java%20project/my-project/ecommerce-soapui-project.xml]
+2022-07-07 19:14:18,570 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [ecommerce]
+2022-07-07 19:14:18,572 INFO  [SoapUITestCaseRunner] Running Project [ecommerce], runType = SEQUENTIAL
+2022-07-07 19:14:18,586 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [creation deletion test cases]
+2022-07-07 19:14:18,617 INFO  [SoapUITestCaseRunner] running step [Properties]
+2022-07-07 19:14:18,683 INFO  [SoapUITestCaseRunner] running step [signup]
+2022-07-07 19:14:29,375 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2022-07-07 19:14:29,376 INFO  [SoapUITestCaseRunner] running step [login]
+2022-07-07 19:14:32,665 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2022-07-07 19:14:32,665 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2022-07-07 19:14:32,668 INFO  [SoapUITestCaseRunner] running step [get all user]
+2022-07-07 19:14:34,670 INFO  [log] avinas007@gmail.com
+2022-07-07 19:14:34,696 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2022-07-07 19:14:34,696 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2022-07-07 19:14:34,697 INFO  [SoapUITestCaseRunner] Assertion [deleteeing id] has status UNKNOWN
+2022-07-07 19:14:34,697 INFO  [SoapUITestCaseRunner] running step [delet]
+2022-07-07 19:14:35,441 INFO  [SoapUITestCaseRunner] Assertion [Valid HTTP Status Codes] has status VALID
+2022-07-07 19:14:35,445 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [creation deletion test cases], time taken: 15966ms, status: FINISHED
+2022-07-07 19:14:35,453 INFO  [SoapUITestCaseRunner] Project [ecommerce] finished with status [FINISHED] in 16876ms
